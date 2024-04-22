@@ -1,0 +1,58 @@
+Algoritmo diadelasemana
+	
+	//definiciones de los numeros//
+	
+    definir numero1, numero2, numero3, numero4, numero5, numero6,  numero7 como entero 
+	
+	//definiciones de dias de la semana//
+	 
+	definir lunes, martes, miercoles, jueves, viernes, sabado, domingo como caracter 
+		
+	
+	
+	escribir "Ingrese un numero"
+	leer numero1
+	
+	Escribir "Ingrese un numero"
+	leer numero2
+	
+	Escribir "Ingrese un numero"
+	leer numero3
+	
+	Escribir "Ingrese un numero"
+	leer numero4
+	
+	Escribir "Ingrese un numero"
+	leer numero5
+	
+	
+	Escribir "Ingrese un numero"
+	leer numero6
+	
+	Escribir "Ingrese un numero"
+	leer numero7
+	
+	Si numero1 = 1 Entonces
+		lunes <- "lunes"
+	SiNo
+		si numero1 = 2 entonces 
+			martes <- "martes"
+		FinSi
+	FinSi
+	Si numero3 = 3 entonces 
+		miercoles <- "miercoles"
+		SiNo
+			si numero3 = 4 Entonces
+				jueves<- jueves
+		 FinSi
+		 FinSi
+	
+	
+
+	
+
+	
+
+
+	
+FinAlgoritmo
