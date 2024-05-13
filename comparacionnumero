@@ -1,0 +1,22 @@
+Algoritmo comparaciondenumeros 
+	definir num1, num2 como entero 
+	Escribir "Ingrese su primer numero"
+	leer num1 
+	Escribir "Ingrese su segundo numero"
+	leer num2 
+	
+    si num1 > num2 Entonces
+		Escribir "El primer numero es mayor que el segundo"
+	FinSi
+	
+	Si num1 < num2 Entonces 
+		Escribir "El segundo numero es mayor que el primero"
+	Finsi 
+	Si num1= num2 Entonces 
+		Escribir "Ambos numeros son iguales"
+		
+	FinSi
+FinAlgoritmo
+Funcion resultado <- sumar ( num1, num2 ) 
+	resultado = num1 + num2 
+FinFuncion
